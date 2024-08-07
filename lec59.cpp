@@ -1,0 +1,1 @@
+//thory about file and input output in c++

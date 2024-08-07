@@ -1,0 +1,17 @@
+// #include<iostream>
+// using namespace std;
+// virtual base class
+// int main()
+// {
+    // only theory abut virtual base class
+
+    // image name in screenshot 
+    // virtual base class
+    // return 0;
+// }
+
+
+// virtual base class.png
+// virtual base class help to kill ambiguity and duplication after inheriting from two base classes having
+// common element when u make the starting(grandfather)  base class  then last (child - pota)derived class dose not get any duplication
+// there are two father of child clss and one grandfather grandfather becomes virtual 
